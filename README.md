@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/11/Screenshot-2019-11-20-at-11.48.13-AM.png)]
 <h1 align="center">Hi 👋, I'm Amresh Ranjan</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Devops" width="500" height="600">
