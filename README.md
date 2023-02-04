@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Amresh Ranjan</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Devops" width="500" height="500">
-<img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif",width="200" height="500">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bq-amresh-26&label=Profile%20views&color=0e75b6&style=flat" alt="bq-amresh-26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bq-amresh-26" alt="bq-amresh-26" /></a> </p>
